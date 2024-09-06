@@ -10,12 +10,12 @@ body {
 }
 
 h1 {
-  font-size: 22px;
+  font-size: 24px;
   font-weight: 800;
 }
 
 p {
-  font-size: 14px;
+  font-size: 16px;
   font-weight: 500;
   color: hsl(0, 0%, 42%);
 }
@@ -30,7 +30,7 @@ a:hover {
 }
 
 .container {
-  max-width: 375px;
+  max-width: 350px;
 }
 
 .card {
@@ -39,6 +39,7 @@ a:hover {
   padding: 20px 20px;
   box-shadow: 7px 7px hsl(0, 0%, 7%);
   border: 1px solid hsl(0, 0%, 7%);
+  height: 450px;
 }
 
 .card > img {
@@ -48,7 +49,7 @@ a:hover {
 }
 
 .category {
-  font-size: 12px;
+  font-size: 14px;
   font-weight: 800;
   background-color: hsl(47, 88%, 63%);
   padding: 5px 8px;
@@ -56,8 +57,8 @@ a:hover {
 }
 
 .published {
-  font-size: 12px;
-  font-weight: 700;
+  font-size: 14px;
+  font-weight: 800;
   color: hsl(0, 0%, 7%);
   margin-top: 10px;
 }
@@ -69,12 +70,12 @@ a:hover {
 }
 
 .author > img {
-  max-width: 30px;
+  max-width: 35px;
   margin-right: 10px;
 }
 
 .author > p {
-  font-size: 12px;
-  font-weight: 900;
+  font-size: 14px;
+  font-weight: 800;
   color: hsl(0, 0%, 7%);
 }
