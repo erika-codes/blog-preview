@@ -45,7 +45,7 @@ a:hover {
 .card > img {
   border-radius: 10px;
   width: 100%;
-  margin-bottom: 12px;
+  margin-bottom: 16px;
 }
 
 .category {
@@ -67,6 +67,7 @@ a:hover {
   display: flex;
   flex-direction: row;
   align-items: center;
+  margin-top: 25px;
 }
 
 .author > img {
