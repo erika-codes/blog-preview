@@ -30,7 +30,7 @@ a:hover {
 }
 
 .container {
-  max-width: 350px;
+  max-width: 375px;
 }
 
 .card {
@@ -39,7 +39,7 @@ a:hover {
   padding: 20px 20px;
   box-shadow: 7px 7px hsl(0, 0%, 7%);
   border: 1px solid hsl(0, 0%, 7%);
-  height: 450px;
+  height: 475px;
 }
 
 .card > img {
@@ -58,7 +58,7 @@ a:hover {
 
 .published {
   font-size: 14px;
-  font-weight: 800;
+  font-weight: 500;
   color: hsl(0, 0%, 7%);
   margin-top: 10px;
 }
